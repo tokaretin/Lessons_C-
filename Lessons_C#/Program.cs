@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System; // Пространствнные имена
+/*using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading.Tasks;*/
 
 namespace Lessons_C_
 {
@@ -12,7 +12,7 @@ namespace Lessons_C_
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Привет Илюха!!");
-            
+            Console.WriteLine("Я победил эти коммиты!!");           
         }
     }
 }
