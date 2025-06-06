@@ -3,9 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36127.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Певая задача со строками", "Lessons_C#\Певая задача со строками.csproj", "{76EE6A3B-0037-4DB3-AB87-B9411FC047B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1 Строки", "Lessons_C#\Task_1 Строки.csproj", "{76EE6A3B-0037-4DB3-AB87-B9411FC047B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сегодняшняя задачка", "Сегодняшняя задачка\Сегодняшняя задачка.csproj", "{6E92BB73-A323-4DC2-A000-EC83BEFEEA05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Спрсить пользователя имя", "Сегодняшняя задачка\Спрсить пользователя имя.csproj", "{6E92BB73-A323-4DC2-A000-EC83BEFEEA05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC_3 Переменные", "ConsoleApp1\SC_3 Переменные.csproj", "{FCA0B34F-5303-4E7F-B127-E22B3CE09C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC_4 Переменные", "SC_4 Переменные\SC_4 Переменные.csproj", "{E1EE516D-7DF7-474B-A086-FE20CD23B928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2.1 Строки", "SC_5 Ввод данных в консоль\Task_2.1 Строки.csproj", "{E819549B-3A76-4AA8-8012-FA38F0A28DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC_6 Конвертация строки в число и сложение их", "SC_6 Конвертация строки в число\SC_6 Конвертация строки в число и сложение их.csproj", "{D66857C9-DE44-4869-A669-B7D6D6518C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SC_6.1 Прибавление", "SC_6.1 Прибавление\SC_6.1 Прибавление.csproj", "{50858CB8-F9D1-421D-9607-F5D21255584C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2.2 Basic calculator", "Task_2.2 Basic calculator\Task_2.2 Basic calculator.csproj", "{7770AE02-3C2C-4E9F-A77B-649932933CDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +33,30 @@ Global
 		{6E92BB73-A323-4DC2-A000-EC83BEFEEA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E92BB73-A323-4DC2-A000-EC83BEFEEA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E92BB73-A323-4DC2-A000-EC83BEFEEA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA0B34F-5303-4E7F-B127-E22B3CE09C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA0B34F-5303-4E7F-B127-E22B3CE09C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA0B34F-5303-4E7F-B127-E22B3CE09C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA0B34F-5303-4E7F-B127-E22B3CE09C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1EE516D-7DF7-474B-A086-FE20CD23B928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EE516D-7DF7-474B-A086-FE20CD23B928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1EE516D-7DF7-474B-A086-FE20CD23B928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1EE516D-7DF7-474B-A086-FE20CD23B928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E819549B-3A76-4AA8-8012-FA38F0A28DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E819549B-3A76-4AA8-8012-FA38F0A28DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E819549B-3A76-4AA8-8012-FA38F0A28DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E819549B-3A76-4AA8-8012-FA38F0A28DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D66857C9-DE44-4869-A669-B7D6D6518C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66857C9-DE44-4869-A669-B7D6D6518C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66857C9-DE44-4869-A669-B7D6D6518C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66857C9-DE44-4869-A669-B7D6D6518C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50858CB8-F9D1-421D-9607-F5D21255584C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50858CB8-F9D1-421D-9607-F5D21255584C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50858CB8-F9D1-421D-9607-F5D21255584C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50858CB8-F9D1-421D-9607-F5D21255584C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7770AE02-3C2C-4E9F-A77B-649932933CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7770AE02-3C2C-4E9F-A77B-649932933CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7770AE02-3C2C-4E9F-A77B-649932933CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7770AE02-3C2C-4E9F-A77B-649932933CDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
